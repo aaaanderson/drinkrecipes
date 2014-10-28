@@ -1,4 +1,4 @@
-LANdrinks
+drinkrecipes
 =========
 
 Party drinks which have been invented, modified, or drunk frequently by members
